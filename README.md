@@ -12,7 +12,7 @@ This project aims to compare the performance of YOLO-NAS and Xsens on Google Col
 
 ## Introduction
 
-In this project, we will provide an overview of YOLO-NAS and Xsens, explaining their key features and use cases. We will also discuss the motivation behind comparing these two technologies and the expected outcomes.
+In this project, we will provide an overview of YOLO-NAS and Xsens, explaining their key features and use cases. We will also discuss the motivation behind comparing these two technologies and the expected outcomes. This project was conducted as part of the Research and Development mission at IMT Mines Alès, with the goal of conducting a comprehensive comparison of these two technologies. You will be able to see the full report soon. (In French)
 
 ## Setup
 
